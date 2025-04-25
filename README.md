@@ -19,11 +19,8 @@ Perfect for building a digital presence or using as a developer portfolio screen
 
 ## 📸 Screenshots
 
-| Preview 1 |
-|-----------|
-| ![Screenshot 1](assets/images/1.jpg) | 
+![Screenshot 1](assets/images/1.jpg)
 
-> 💡 Place your screenshots inside `assets/screenshots/` folder.
 
 ---
 
