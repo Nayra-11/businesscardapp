@@ -23,7 +23,6 @@ Perfect for building a digital presence or using as a developer portfolio screen
 |-----------|
 | ![Screenshot 1](assets/images/1.jpg) | 
 
-> 💡 Place your screenshots inside `assets/images/` folder.
 
 
 
