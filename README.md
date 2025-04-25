@@ -1,16 +1,37 @@
-# businesscardapp
+# Flutter Business Card App
 
-A new Flutter project.
+A clean and fully responsive personal business card application built using **Flutter**.  
+This app showcases a developer's profile with name, job title, contact information, and a profile picture.  
+Perfect for building a digital presence or using as a developer portfolio screen.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 👤 Circular profile image display
+- 📝 Name and profession shown with custom fonts
+- 📞 Phone number and 📧 email displayed using styled cards
+- 🧱 Modular structure using reusable widgets
+- 💡 Fully responsive layout for all screen sizes
+- 🎨 Custom fonts and consistent color theme
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+| Preview 1 |
+|-----------|
+| ![Screenshot 1](assets/images/1.jpg) | 
+
+> 💡 Place your screenshots inside `assets/screenshots/` folder.
+
+---
+
+## ⚙️ Installation
+
+To run this project on your local machine:
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/yourusername/business-card-app.git
